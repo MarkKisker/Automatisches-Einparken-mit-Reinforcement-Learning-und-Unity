@@ -5,10 +5,13 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/.idea
+/[Dd]oc
+/ml-agents
+quellen.txt
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data

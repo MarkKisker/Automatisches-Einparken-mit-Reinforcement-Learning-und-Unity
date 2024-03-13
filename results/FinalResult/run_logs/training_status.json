@@ -1,0 +1,74 @@
+{
+    "AutoParking": {
+        "checkpoints": [
+            {
+                "steps": 999803,
+                "file_path": "results\\finalTest1\\AutoParking\\AutoParking-999803.onnx",
+                "reward": 26.60723011016846,
+                "creation_time": 1710089125.7723434,
+                "auxillary_file_paths": [
+                    "results\\finalTest1\\AutoParking\\AutoParking-999803.pt"
+                ]
+            },
+            {
+                "steps": 1999994,
+                "file_path": "results\\finalTest1\\AutoParking\\AutoParking-1999994.onnx",
+                "reward": 37.51250902811686,
+                "creation_time": 1710091918.5901587,
+                "auxillary_file_paths": [
+                    "results\\finalTest1\\AutoParking\\AutoParking-1999994.pt"
+                ]
+            },
+            {
+                "steps": 2999802,
+                "file_path": "results\\finalTest1\\AutoParking\\AutoParking-2999802.onnx",
+                "reward": 40.0569837252299,
+                "creation_time": 1710094589.4035525,
+                "auxillary_file_paths": [
+                    "results\\finalTest1\\AutoParking\\AutoParking-2999802.pt"
+                ]
+            },
+            {
+                "steps": 3999836,
+                "file_path": "results\\finalTest1\\AutoParking\\AutoParking-3999836.onnx",
+                "reward": 48.30749988555908,
+                "creation_time": 1710097242.950384,
+                "auxillary_file_paths": [
+                    "results\\finalTest1\\AutoParking\\AutoParking-3999836.pt"
+                ]
+            },
+            {
+                "steps": 4676978,
+                "file_path": "results\\finalTest1\\AutoParking\\AutoParking-4676978.onnx",
+                "reward": null,
+                "creation_time": 1710099073.861623,
+                "auxillary_file_paths": [
+                    "results\\finalTest1\\AutoParking\\AutoParking-4676978.pt"
+                ]
+            },
+            {
+                "steps": 4697659,
+                "file_path": "results\\FinalResult\\AutoParking\\AutoParking-4697659.onnx",
+                "reward": null,
+                "creation_time": 1710349824.5966916,
+                "auxillary_file_paths": [
+                    "results\\FinalResult\\AutoParking\\AutoParking-4697659.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4697659,
+            "file_path": "results\\FinalResult\\AutoParking.onnx",
+            "reward": null,
+            "creation_time": 1710349824.5966916,
+            "auxillary_file_paths": [
+                "results\\FinalResult\\AutoParking\\AutoParking-4697659.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
