@@ -30,7 +30,7 @@ Um das Projekt lokal auf Ihrem System einzurichten, folgen Sie bitte diesen Anwe
 
 ## Ausführen des Projekt Ergbniss
 1. Navigation in das Projektverzeichniss
-2. aktivierung der conda Umgebung
+2. Aktivierung der conda Umgebung
 3. Folgende Befehle können nun ausgeführt werden:
    ```bash
    mlagents-learn config\AutoParking_configPPO.yaml --run-id=FinalResult --inference --env=Build --num-envs=1 --width=1280 --height=720 --resume
